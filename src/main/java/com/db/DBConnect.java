@@ -11,6 +11,7 @@ public class DBConnect {
 		
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
+			// replace password by the password set on your mysql workbench....
 			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/hospital", root, password);
 		} catch (Exception e) {
 			e.printStackTrace();
