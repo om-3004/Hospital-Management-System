@@ -91,7 +91,7 @@
 			</div>
 
 			<div class="col-md-4">
-				<img alt="" src="imgs/Dr5.avif" height="350px">
+				<img alt="" src="img/doc_mainpg.jpg" height="350px">
 			</div>
 
 		</div>
