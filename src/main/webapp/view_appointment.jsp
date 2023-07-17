@@ -98,7 +98,7 @@
 			</div>
 
 			<div class="col-md-3 p-3">
-				<img alt="" src="img/doc_mainpg.jpg" style="height: 500px">
+				<img alt="" src="img/doc_mainpg.jpg" style="height: 300px">
 			</div>
 		</div>
 	</div>
