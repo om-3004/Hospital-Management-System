@@ -17,3 +17,7 @@ iii) user/servlet - It provides the logic for taking the Appointment under a par
 iv) entity - The contructor and various getter/setter methods are defined in the entity package under the specific entity.
 v) db - It contains the DBConnect file in which the logic for connecting the application to the database is written.
 vi) dao - All the queries required for the CRUD operation is written in the dao package under the specific entity.
+
+# Screenshots
+
+![hospital_ss](https://github.com/om-3004/Hospital-Management-System/assets/76418145/a5de700e-3c4c-4fc9-8370-2e32727d7493)
